@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Instagram clone react
+This app is built using react, firebase, material ui in attempt to brush-up my UI concepts. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
